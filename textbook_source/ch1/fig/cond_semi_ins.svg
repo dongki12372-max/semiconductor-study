@@ -1,0 +1,28 @@
+<svg width="560" height="230" viewBox="0 0 560 230" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR" font-size="11">
+  <!-- conductor -->
+  <text x="90" y="18" text-anchor="middle" font-weight="bold" fill="#1b3a5c">도체 (금속)</text>
+  <rect x="40" y="40" width="100" height="70" fill="#cfe0f0" stroke="#2d6a9f"/>
+  <rect x="40" y="95" width="100" height="85" fill="#2d6a9f" opacity="0.75"/>
+  <text x="90" y="72" text-anchor="middle">전도대</text>
+  <text x="90" y="145" text-anchor="middle" fill="white">가전자대</text>
+  <text x="90" y="205" text-anchor="middle" fill="#555">띠가 겹침 → 항상 전도</text>
+  <!-- semiconductor -->
+  <text x="280" y="18" text-anchor="middle" font-weight="bold" fill="#1b3a5c">반도체 (Si)</text>
+  <rect x="230" y="40" width="100" height="45" fill="#cfe0f0" stroke="#2d6a9f"/>
+  <text x="280" y="67" text-anchor="middle">전도대</text>
+  <rect x="230" y="125" width="100" height="55" fill="#2d6a9f" opacity="0.75"/>
+  <text x="280" y="157" text-anchor="middle" fill="white">가전자대</text>
+  <line x1="345" y1="85" x2="345" y2="125" stroke="#e08a1e" stroke-width="2"/>
+  <text x="352" y="109" fill="#b5650c">E<tspan baseline-shift="sub" font-size="8">g</tspan> ≈ 1.12 eV</text>
+  <circle cx="265" cy="50" r="4" fill="#c0392b"/><circle cx="265" cy="132" r="4" fill="white" stroke="#c0392b"/>
+  <text x="280" y="205" text-anchor="middle" fill="#555">열·빛·도핑으로 조절 가능</text>
+  <!-- insulator -->
+  <text x="470" y="18" text-anchor="middle" font-weight="bold" fill="#1b3a5c">부도체 (SiO₂)</text>
+  <rect x="420" y="40" width="100" height="30" fill="#cfe0f0" stroke="#2d6a9f"/>
+  <text x="470" y="60" text-anchor="middle">전도대</text>
+  <rect x="420" y="150" width="100" height="30" fill="#2d6a9f" opacity="0.75"/>
+  <text x="470" y="170" text-anchor="middle" fill="white">가전자대</text>
+  <line x1="530" y1="70" x2="530" y2="150" stroke="#e08a1e" stroke-width="2"/>
+  <text x="470" y="115" text-anchor="middle" fill="#b5650c">~9 eV</text>
+  <text x="470" y="205" text-anchor="middle" fill="#555">사실상 전도 불가</text>
+</svg>

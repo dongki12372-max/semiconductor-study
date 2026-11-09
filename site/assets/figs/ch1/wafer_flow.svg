@@ -1,0 +1,29 @@
+<svg width="580" height="150" viewBox="0 0 580 150" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR" font-size="10">
+  <defs><marker id="ar" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#2d6a9f"/></marker></defs>
+  <g>
+    <rect x="5" y="30" width="95" height="60" rx="6" fill="#f4ecdc" stroke="#b5650c"/>
+    <text x="52" y="55" text-anchor="middle" font-weight="bold">규사 (SiO₂)</text>
+    <text x="52" y="72" text-anchor="middle">모래·규석</text>
+    <rect x="120" y="30" width="95" height="60" rx="6" fill="#eef4fa" stroke="#2d6a9f"/>
+    <text x="167" y="52" text-anchor="middle" font-weight="bold">금속급 Si</text>
+    <text x="167" y="68" text-anchor="middle">탄소 환원</text>
+    <text x="167" y="82" text-anchor="middle">~98–99%</text>
+    <rect x="235" y="30" width="95" height="60" rx="6" fill="#eef4fa" stroke="#2d6a9f"/>
+    <text x="282" y="52" text-anchor="middle" font-weight="bold">폴리실리콘</text>
+    <text x="282" y="68" text-anchor="middle">SiHCl₃ 증류·CVD</text>
+    <text x="282" y="82" text-anchor="middle">9N–11N 순도</text>
+    <rect x="350" y="30" width="95" height="60" rx="6" fill="#eef4fa" stroke="#2d6a9f"/>
+    <text x="397" y="52" text-anchor="middle" font-weight="bold">단결정 잉곳</text>
+    <text x="397" y="68" text-anchor="middle">CZ 인상법</text>
+    <text x="397" y="82" text-anchor="middle">씨결정 회전 인상</text>
+    <rect x="465" y="30" width="110" height="60" rx="6" fill="#1b3a5c"/>
+    <text x="520" y="52" text-anchor="middle" font-weight="bold" fill="white">웨이퍼</text>
+    <text x="520" y="68" text-anchor="middle" fill="white">절단·연마·세정</text>
+    <text x="520" y="82" text-anchor="middle" fill="white">300 mm / 775 μm</text>
+    <line x1="100" y1="60" x2="118" y2="60" stroke="#2d6a9f" stroke-width="2" marker-end="url(#ar)"/>
+    <line x1="215" y1="60" x2="233" y2="60" stroke="#2d6a9f" stroke-width="2" marker-end="url(#ar)"/>
+    <line x1="330" y1="60" x2="348" y2="60" stroke="#2d6a9f" stroke-width="2" marker-end="url(#ar)"/>
+    <line x1="445" y1="60" x2="463" y2="60" stroke="#2d6a9f" stroke-width="2" marker-end="url(#ar)"/>
+    <text x="290" y="125" text-anchor="middle" fill="#555">"11N" = 99.999999999% · 불순물 원자 1개당 실리콘 원자 약 1000억 개</text>
+  </g>
+</svg>

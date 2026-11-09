@@ -1,0 +1,19 @@
+<svg width="580" height="260" viewBox="0 0 580 260" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR" font-size="9.5">
+  <line x1="20" y1="130" x2="565" y2="130" stroke="#1b3a5c" stroke-width="3"/>
+  <g fill="#1b3a5c">
+    <circle cx="35" cy="130" r="6"/><circle cx="95" cy="130" r="6"/><circle cx="160" cy="130" r="6"/><circle cx="215" cy="130" r="6"/>
+    <circle cx="270" cy="130" r="6"/><circle cx="325" cy="130" r="6"/><circle cx="385" cy="130" r="6"/><circle cx="445" cy="130" r="6"/><circle cx="505" cy="130" r="6"/><circle cx="555" cy="130" r="6"/>
+  </g>
+  <g text-anchor="middle">
+    <text x="35" y="110" font-weight="bold">1906</text><text x="35" y="96">3극 진공관</text><text x="35" y="83">De Forest</text>
+    <text x="95" y="160" font-weight="bold">1945</text><text x="95" y="174">ENIAC</text><text x="95" y="187">진공관 ~1.8만 개</text>
+    <text x="160" y="110" font-weight="bold" fill="#c0392b">1947</text><text x="160" y="96">점접촉 트랜지스터</text><text x="160" y="83">Bardeen·Brattain</text><text x="160" y="70">(Bell Labs, Ge)</text>
+    <text x="215" y="160" font-weight="bold">1948</text><text x="215" y="174">접합 트랜지스터</text><text x="215" y="187">Shockley</text>
+    <text x="270" y="110" font-weight="bold">1958–59</text><text x="270" y="96">집적회로(IC)</text><text x="270" y="83">Kilby · Noyce</text>
+    <text x="325" y="160" font-weight="bold" fill="#c0392b">1959</text><text x="325" y="174">MOSFET</text><text x="325" y="187">Atalla · 강대원</text><text x="325" y="200">(Bell Labs, Si)</text>
+    <text x="385" y="110" font-weight="bold">1963</text><text x="385" y="96">CMOS</text><text x="385" y="83">Wanlass</text>
+    <text x="445" y="160" font-weight="bold" fill="#c0392b">1967</text><text x="445" y="174">플로팅 게이트</text><text x="445" y="187">강대원 · S. M. Sze</text><text x="445" y="200">→ 플래시의 원리</text>
+    <text x="505" y="110" font-weight="bold">1971</text><text x="505" y="96">Intel 4004</text><text x="505" y="83">2,300개 / 10 μm</text>
+    <text x="555" y="160" font-weight="bold">현재</text><text x="555" y="174">칩당 수백억~</text><text x="555" y="187">수천억 개</text>
+  </g>
+</svg>

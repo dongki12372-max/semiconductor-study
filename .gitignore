@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+# 읽기 메모는 개인 기록이라 올리지 않는다
+notes/
+# 원본 zip은 textbook_source/ 와 중복
+textbook_source_ch1.zip
+# 변환 스크립트의 중간 산출물
+tools/ch1_article.html

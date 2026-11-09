@@ -1,0 +1,33 @@
+<svg width="560" height="270" viewBox="0 0 560 270" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR" font-size="11">
+  <!-- substrate -->
+  <rect x="30" y="110" width="500" height="130" fill="#f1e3c8" stroke="#b5650c"/>
+  <text x="280" y="225" text-anchor="middle" fill="#7a4a10">p형 실리콘 기판 (Body)</text>
+  <!-- STI -->
+  <rect x="30" y="110" width="45" height="70" fill="#dde6ee" stroke="#7a8a9a"/><text x="52" y="150" text-anchor="middle" font-size="9">STI</text>
+  <rect x="485" y="110" width="45" height="70" fill="#dde6ee" stroke="#7a8a9a"/><text x="507" y="150" text-anchor="middle" font-size="9">STI</text>
+  <!-- source/drain -->
+  <path d="M90,110 L200,110 L200,140 Q200,160 180,160 L110,160 Q90,160 90,140 Z" fill="#c9dcf2" stroke="#2d6a9f"/>
+  <text x="145" y="140" text-anchor="middle" font-weight="bold">n⁺ 소스</text>
+  <path d="M360,110 L470,110 L470,140 Q470,160 450,160 L380,160 Q360,160 360,140 Z" fill="#c9dcf2" stroke="#2d6a9f"/>
+  <text x="415" y="140" text-anchor="middle" font-weight="bold">n⁺ 드레인</text>
+  <!-- gate oxide & gate -->
+  <rect x="210" y="100" width="140" height="10" fill="#9fd3a8" stroke="#2e8b57"/>
+  <rect x="210" y="45" width="140" height="55" fill="#8e9bab" stroke="#3a4a5a"/>
+  <text x="280" y="77" text-anchor="middle" fill="white" font-weight="bold">게이트 (Gate)</text>
+  <!-- spacers -->
+  <path d="M210,45 Q190,60 188,110 L210,110 Z" fill="#e9c7e9" stroke="#8e44ad"/>
+  <path d="M350,45 Q370,60 372,110 L350,110 Z" fill="#e9c7e9" stroke="#8e44ad"/>
+  <!-- contacts -->
+  <rect x="135" y="40" width="20" height="70" fill="#666"/>
+  <rect x="405" y="40" width="20" height="70" fill="#666"/>
+  <text x="145" y="32" text-anchor="middle">S</text><text x="415" y="32" text-anchor="middle">D</text>
+  <text x="280" y="32" text-anchor="middle">G</text>
+  <!-- labels -->
+  <line x1="350" y1="105" x2="420" y2="85" stroke="#2e8b57"/><text x="425" y="85" fill="#2e8b57" font-size="10">게이트 절연막</text>
+  <line x1="190" y1="80" x2="110" y2="78" stroke="#8e44ad"/><text x="40" y="76" fill="#8e44ad" font-size="10">스페이서(SiN)</text>
+  <line x1="155" y1="70" x2="100" y2="58" stroke="#444"/><text x="40" y="56" fill="#444" font-size="10">콘택(W)</text>
+  <!-- channel -->
+  <line x1="200" y1="118" x2="360" y2="118" stroke="#c0392b" stroke-width="2" stroke-dasharray="5,3"/>
+  <text x="280" y="134" text-anchor="middle" fill="#c0392b" font-size="10">채널 (게이트 길이 L)</text>
+  <text x="280" y="262" text-anchor="middle" fill="#555" font-size="10">B (기판 단자)</text>
+</svg>

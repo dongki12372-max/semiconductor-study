@@ -1,0 +1,34 @@
+<svg width="540" height="200" viewBox="0 0 540 200" xmlns="http://www.w3.org/2000/svg" font-family="Noto Sans CJK KR" font-size="11">
+  <g transform="translate(20,20)">
+    <text x="110" y="0" text-anchor="middle" font-weight="bold" fill="#1b3a5c">n형: 인(P, 5족) 도핑</text>
+    <g stroke="#999" stroke-width="2">
+      <line x1="40" y1="50" x2="180" y2="50"/><line x1="40" y1="110" x2="180" y2="110"/>
+      <line x1="40" y1="50" x2="40" y2="160"/><line x1="110" y1="20" x2="110" y2="160"/><line x1="180" y1="50" x2="180" y2="160"/>
+    </g>
+    <circle cx="40" cy="50" r="16" fill="#cfe0f0" stroke="#2d6a9f"/><text x="40" y="54" text-anchor="middle">Si</text>
+    <circle cx="180" cy="50" r="16" fill="#cfe0f0" stroke="#2d6a9f"/><text x="180" y="54" text-anchor="middle">Si</text>
+    <circle cx="40" cy="110" r="16" fill="#cfe0f0" stroke="#2d6a9f"/><text x="40" y="114" text-anchor="middle">Si</text>
+    <circle cx="110" cy="110" r="18" fill="#f8d7c4" stroke="#c0392b" stroke-width="2"/><text x="110" y="114" text-anchor="middle" font-weight="bold">P</text>
+    <circle cx="180" cy="110" r="16" fill="#cfe0f0" stroke="#2d6a9f"/><text x="180" y="114" text-anchor="middle">Si</text>
+    <circle cx="110" cy="50" r="16" fill="#cfe0f0" stroke="#2d6a9f"/><text x="110" y="54" text-anchor="middle">Si</text>
+    <circle cx="138" cy="88" r="5" fill="#c0392b"/>
+    <text x="150" y="84" fill="#c0392b" font-size="10">남는 전자</text>
+    <text x="110" y="180" text-anchor="middle" fill="#555">다수 캐리어 = 전자 (−)</text>
+  </g>
+  <g transform="translate(290,20)">
+    <text x="110" y="0" text-anchor="middle" font-weight="bold" fill="#1b3a5c">p형: 붕소(B, 3족) 도핑</text>
+    <g stroke="#999" stroke-width="2">
+      <line x1="40" y1="50" x2="180" y2="50"/><line x1="40" y1="110" x2="180" y2="110"/>
+      <line x1="40" y1="50" x2="40" y2="160"/><line x1="110" y1="20" x2="110" y2="160"/><line x1="180" y1="50" x2="180" y2="160"/>
+    </g>
+    <circle cx="40" cy="50" r="16" fill="#cfe0f0" stroke="#2d6a9f"/><text x="40" y="54" text-anchor="middle">Si</text>
+    <circle cx="180" cy="50" r="16" fill="#cfe0f0" stroke="#2d6a9f"/><text x="180" y="54" text-anchor="middle">Si</text>
+    <circle cx="40" cy="110" r="16" fill="#cfe0f0" stroke="#2d6a9f"/><text x="40" y="114" text-anchor="middle">Si</text>
+    <circle cx="110" cy="110" r="18" fill="#d9ecd9" stroke="#2e8b57" stroke-width="2"/><text x="110" y="114" text-anchor="middle" font-weight="bold">B</text>
+    <circle cx="180" cy="110" r="16" fill="#cfe0f0" stroke="#2d6a9f"/><text x="180" y="114" text-anchor="middle">Si</text>
+    <circle cx="110" cy="50" r="16" fill="#cfe0f0" stroke="#2d6a9f"/><text x="110" y="54" text-anchor="middle">Si</text>
+    <circle cx="145" cy="110" r="6" fill="white" stroke="#2e8b57" stroke-width="2"/>
+    <text x="140" y="138" fill="#2e8b57" font-size="10">빈자리(정공)</text>
+    <text x="110" y="180" text-anchor="middle" fill="#555">다수 캐리어 = 정공 (+)</text>
+  </g>
+</svg>
